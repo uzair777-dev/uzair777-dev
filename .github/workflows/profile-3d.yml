@@ -29,7 +29,7 @@ jobs:
           SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: push SVGs to the output-3d branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output-3d-contrib
           build_dir: profile-3d-contrib
