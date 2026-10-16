@@ -16,7 +16,7 @@
 ### 🔭 What I'm up to
 
 - 🎓 B.E. in Computer Science & Engineering (Blockchain, IoT & Cybersecurity), 2024–2027
-- 🛠️ Building **[Wrench](<wrench-repo-url>)**, a KDE-native Git GUI client
+- 🛠️ Building **[Wrench](https://github.com/uzair777-dev/Wrench)**, a KDE-native Git GUI client
 - 🔐 Learning how critical systems get attacked and how to defend them
 - 📍 Based in Mumbai, India
 
