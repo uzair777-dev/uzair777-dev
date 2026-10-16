@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="<your-portfolio-url>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://uzairshaikh.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/uzair777-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-uzair777--dev-181717?style=for-the-badge&logo=github"></a>
-  <a href="<your-linkedin-url>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </p>
 
 ---
